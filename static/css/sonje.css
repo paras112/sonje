@@ -1,0 +1,25 @@
+nav.navbar.navbar-inverse {
+	    margin-bottom: 0px;
+}
+.sonje1{
+	float:center;
+}
+.sonje1 img{
+	    opacity: 0.8;
+}
+.sonje2{
+	width:100%;
+	position:relative;
+	margin-top:-400px;
+	text-align: center;
+
+}
+.col-sm-6.sonje3{
+    border: 2px solid #e8e3e3;
+    background-color: #e8e3e3;
+    border-radius: 8px;
+    height:300px;
+}
+.container{
+	    margin-top: 300px;
+}
