@@ -23,3 +23,15 @@ nav.navbar.navbar-inverse {
 .container{
 	    margin-top: 300px;
 }
+.footer div{
+  float: left;
+  margin-left: 20px;
+  width:30%;
+  color:black;
+}
+.praan{
+  float: left;
+  width: 100%;
+  background-color:#323A45;
+  height: auto;
+}
